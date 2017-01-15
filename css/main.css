@@ -52,6 +52,132 @@
   content: '\f099';
 }
 
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Hairline'), local('Lato-Hairline'), url('../font/latohairline.woff2') format('woff2'), url('../font/latohairline.woff') format('woff'), url('latohairline.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Hairline Italic'), local('Lato-HairlineItalic'), url('../font/latohairlineitalic.woff2') format('woff2'), url('../font/latohairlineitalic.woff') format('woff'), url('../font/latohairlineitalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Thin'), local('Lato-Thin'), url('../font/latothin.woff2') format('woff2'), url('../font/latothin.woff') format('woff'), url('../font/latothin.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Thin Italic'), local('Lato-ThinItalic'), url('../font/latothinitalic.woff2') format('woff2'), url('../font/latothinitalic.woff') format('woff'), url('../font/latothinitalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Light'), local('Lato-Light'), url('../font/latolight.woff2') format('woff2'), url('../font/latolight.woff') format('woff'), url('../font/latolight.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url('../font/latolightitalic.woff2') format('woff2'), url('../font/latolightitalic.woff') format('woff'), url('../font/latolightitalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Regular'), local('Lato-Regular'), url('../font/latoregular.woff2') format('woff2'), url('../font/latoregular.woff') format('woff'), url('../font/latoregular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Italic'), local('Lato-Italic'), url('../font/latoitalic.woff2') format('woff2'), url('../font/latoitalic.woff') format('woff'), url('../font/latoitalic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Medium'), local('Lato-Medium'), url('../font/latomedium.woff2') format('woff2'), url('../font/latomedium.woff') format('woff'), url('../font/latomedium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Medium Italic'), local('Lato-MediumItalic'), url('../font/latomediumitalic.woff2') format('woff2'), url('../font/latomediumitalic.woff') format('woff'), url('../font/latomediumitalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Semibold'), local('Lato-Semibold'), url('../font/latosemibold.woff2') format('woff2'), url('../font/latosemibold.woff') format('woff'), url('../font/latosemibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Semibold Italic'), local('Lato-SemiboldItalic'), url('../font/latosemibolditalic.woff2') format('woff2'), url('../font/latosemibolditalic.woff') format('woff'), url('../font/latosemibolditalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Bold'), local('Lato-Bold'), url('../font/latobold.woff2') format('woff2'), url('../font/latobold.woff') format('woff'), url('../font/latobold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url('../font/latobolditalic.woff2') format('woff2'), url('../font/latobolditalic.woff') format('woff'), url('../font/latobolditalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Heavy'), local('Lato-Heavy'), url('../font/latoheavy.woff2') format('woff2'), url('../font/latoheavy.woff') format('woff'), url('../font/latoheavy.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Heavy Italic'), local('Lato-HeavyItalic'), url('../font/latoheavyitalic.woff2') format('woff2'), url('../font/latoheavyitalic.woff') format('woff'), url('../font/latoheavyitalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Black'), local('Lato-Black'), url('../font/latoblack.woff2') format('woff2'), url('../font/latoblack.woff') format('woff'), url('../font/latoblack.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Black Italic'), local('Lato-BlackItalic'), url('../font/latoblackitalic.woff2') format('woff2'), url('../font/latoblackitalic.woff') format('woff'), url('../font/latoblackitalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
+
 .btn, .firstViewBtn {
   border: 2px solid #ebebeb;
   -webkit-border-radius: 10px;
@@ -1060,7 +1186,7 @@ html, body {
   height: 100%;
   min-width: 320px;
   font-size: 16px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato';
   background-color: #fff;
   line-height: 24px;
 }
@@ -1391,7 +1517,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   font-size: 16px;
   color: #363636;
   line-height: 24px;
-  font-family: bold;
+  font-weight: 300;
   max-width: 125px;
 }
 
@@ -1412,7 +1538,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   text-align: center;
   line-height: 58px;
   color: #fff;
-  font-weight: 100;
+  font-weight: 300;
   max-width: 720px;
   text-align: center;
   margin: 0 auto;
@@ -1427,6 +1553,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   display: inline-block;
   vertical-align: top;
   margin: 0 15px;
+  font-weight: bold;
 }
 
 .deliveryChose {
@@ -1500,7 +1627,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 
 .deliveryChoseItemTitle {
   font-size: 34px;
-  font-weight: 100;
+  font-weight: 300;
   color: #363636;
   padding-top: 330px;
   padding-left: 30px;
@@ -1524,7 +1651,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 
 .deliveryChoseItemHover p {
   color: #fff;
-  font-weight: 100;
+  font-weight: 500;
   font-size: 34px;
   margin-bottom: 12px;
 }
@@ -1534,6 +1661,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   line-height: 24px;
   color: #cddded;
   display: block;
+  font-weight: 300;
   margin-bottom: 17px;
   margin-bottom: 37px;
 }
@@ -1750,6 +1878,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 .deliveryFormBtn {
   border-top: 2px solid #e5e5e5;
   padding-top: 30px;
+  padding-left: 20px;
   display: -webkit-flex;
   display:    -moz-flex;
   display:     -ms-flex;
@@ -1781,7 +1910,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   font-size: 48px;
   line-height: 48px;
   text-align: center;
-  font-weight: 100;
+  font-weight: 300;
   margin-bottom: 30px;
 }
 
@@ -1820,7 +1949,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 }
 
 .deliveryCheckFormCode {
-  max-width: 386px;
+  width: 386px;
 }
 
 .deliveryCheckFormCode input {
@@ -1839,6 +1968,11 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   color: #fff;
 }
 
+.deliveryCheckSubmit {
+  width: 210px;
+  text-align: center;
+}
+
 .mainFooter {
   background-color: white;
   -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.05);
@@ -1849,7 +1983,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 .mainFooterTitle {
   color: #363636;
   font-size: 48px;
-  font-weight: 100;
+  font-weight: 300;
   margin-bottom: 53px;
   line-height: 40px;
 }
@@ -1947,15 +2081,14 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 }
 
 .mainFooterScroll {
-  max-width: 1170px;
   position: relative;
   z-index: 1;
 }
 
 .mainFooterScroll div {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: -57px;
+  right: 10px;
   width: 60px;
   height: 60px;
   -webkit-border-radius: 50%;
@@ -2165,6 +2298,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   position: relative;
   z-index: 1;
   padding-right: 50px;
+  cursor: pointer;
 }
 
 .servicesListItem.active:after {
@@ -2303,7 +2437,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 .aboutTitle {
   font-size: 30px;
   line-height: 40px;
-  font-weight: 100;
+  font-weight: 300;
   color: #363636;
   margin-bottom: 26px;
 }
@@ -2315,7 +2449,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 }
 
 .aboutItem {
-  padding-left: 25%;
+  padding-left: 30%;
   position: relative;
   z-index: 1;
   padding-right: 25px;
@@ -2335,11 +2469,12 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   width: 75px;
   height: 75px;
   top: 0;
-  left: 0;
+  left: 20px;
 }
 
 .aboutItemAir:after {
   background: url('../img/aboutItem-1.png') no-repeat 50% 50%;
+  top: -7px;
 }
 
 .aboutItemRail:after {
@@ -2364,7 +2499,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   color: #868686;
 }
 
-.aboutPercent {
+.aboutPercent span {
   color: #0081ff;
   font-size: 60px;
   line-height: 66px;
@@ -2415,7 +2550,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   font-size: 60px;
   line-height: 60px;
   color: #fff;
-  font-weight: 100;
+  font-weight: 300;
   margin-bottom: 25px;
 }
 
@@ -2438,7 +2573,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   background: url('../img/commerceCheck.jpg') no-repeat 50% 50%;
   background-size: cover;
   padding-top: 64px;
-  padding-bottom: 25px;
+  padding-bottom: 24px;
 }
 
 .commerceFormCheckTitle, .commerceFormCheckText {
@@ -2459,6 +2594,10 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   line-height: 24px;
   color: #000;
   margin-bottom: 55px;
+}
+
+.commerceFormCheckBtn {
+  text-align: center;
 }
 
 .commerceFormCheckRow {
@@ -2607,6 +2746,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   font-weight: bold;
   color: #363636;
   line-height: 16px;
+  margin-bottom: 10px;
 }
 
 .commerceFormCardBtn {
@@ -2775,6 +2915,19 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 }
 
 @media (max-width: 770px) {
+  .deliveryChoseItemTitle {
+    padding-top: 300px;
+    line-height: 42px;
+  }
+  .deliveryChoseItemHover {
+    padding-top: 80px;
+  }
+  .deliveryChoseItemHover p {
+    line-height: 40px;
+  }
+}
+
+@media (max-width: 770px) {
   .deliveryFormStep {
     padding-left: 10px;
     padding-right: 10px;
@@ -2820,12 +2973,19 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column;
+    padding-left: 0;
   }
   .deliveryFormBtnNext, .deliveryFormBtnPrev {
     text-align: center;
   }
   .deliveryFormBtnNext {
     margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .deliveryCheckFormCode {
+    width: 315px;
   }
 }
 
@@ -2950,11 +3110,16 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   }
   .newsItemInfoImg {
     display: block;
+    margin-bottom: 20px;
   }
   .newsItemInfoBtn {
     width: 100%;
     left: 0;
     text-align: center;
+  }
+  .newsMore {
+    line-height: 60px;
+    height: 60px;
   }
 }
 
@@ -2978,6 +3143,36 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   }
   .aboutItem {
     margin-bottom: 30px;
+  }
+  .aboutItemWrap {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  .aboutItem:after {
+    width: 110px;
+    height: 110px;
+    background-size: contain;
+    left: 32px;
+  }
+  .aboutItemAir:after {
+    top: 0px;
+  }
+  .aboutItemRail:after {
+    top: 7px;
+  }
+  .aboutItemSea:after {
+    top: 7px;
+  }
+  .aboutPercent {
+    margin-bottom: 30px;
+  }
+  .aboutPercent p, .aboutPercent span {
+    display: inline-block;
+    vertical-align: top;
+    width: 79%;
+  }
+  .aboutPercent span {
+    width: 20%;
   }
 }
 
@@ -3006,13 +3201,20 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   }
   .aboutItem {
     padding: 0;
-    padding-top: 80px;
+    padding-top: 150px;
+  }
+  .aboutItemWrap {
+    padding-top: 30px;
+    padding-bottom: 0;
+    margin-bottom: 30px;
   }
   .aboutItem:after {
     top: 0;
     left: 0;
     right: 0;
     margin: 0 auto;
+    width: 130px;
+    height: 130px;
   }
   .aboutPercent {
     text-align: center;
