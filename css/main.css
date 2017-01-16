@@ -1383,7 +1383,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
           transition: all linear 0.2s;
 }
 
-.controlTitle {
+input[date]title {
   font-size: 14px;
   color: #7f7f7f;
   margin-bottom: 5px;
@@ -1519,6 +1519,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
   line-height: 24px;
   font-weight: 300;
   max-width: 125px;
+  font-weight: bold;
 }
 
 .mainHeaderNavList li a:hover {
@@ -2621,7 +2622,8 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 }
 
 .commerceFormCheckRow .controlArea {
-  width: 60%;
+  width: -webkit-calc(70% - 37px);
+  width:         calc(70% - 37px);
   margin-bottom: 0;
 }
 
@@ -2658,7 +2660,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 .commerceFormMobile {
   background: url('../img/commerceMobile.png') no-repeat 50% 40px;
   background-color: #fff;
-  padding-top: 203px;
+  padding-top: 218px;
   padding-left: 21px;
   padding-right: 21px;
   padding-bottom: 30px;
@@ -2757,7 +2759,7 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 .commerceFormFinance {
   background: url('../img/commerceFinance.jpg') no-repeat 50% 50%;
   background-size: cover;
-  padding-top: 205px;
+  padding-top: 221px;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 30px;
@@ -3235,6 +3237,9 @@ input:focus, input:active, select:focus, select:active, textarea:focus, textarea
 @media (max-width: 1200px) {
   .commerceFormCardTitle {
     font-size: 38px;
+  }
+  .commerceFormCardItemRadio {
+    margin-bottom: 15px;
   }
 }
 
